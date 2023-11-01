@@ -4,5 +4,5 @@ Katherine Coleman Goble Johnson (White Sulphur Springs, 26 de agosto de 1918 –
 
 Fontes
 https://pt.wikipedia.org/wiki/Katherine_Johnson
-mais fontes 
-mais coisa  
+ 
+  

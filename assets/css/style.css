@@ -13,6 +13,32 @@ padding: 10px 20px;
 .logo {
 
 }
-.blue{
-    color:blue
+.box1{
+    background-color: #e5dbdb
+}
+
+.box2{
+    background-color:#D9C9BA
+}
+
+.videowrapper {
+    float: none;
+    clear: both;
+    width: 100%;
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 25px;
+    height: 0;
+}
+.videowrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+footer {
+    background-image: linear-gradient(to right, black, white);
+    color: white; 
 }
